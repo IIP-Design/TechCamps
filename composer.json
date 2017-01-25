@@ -1,0 +1,65 @@
+{
+    "repositories": [
+        {
+            "type": "package",
+            "package": {
+                "name": "wordpress",
+                "type": "webroot",
+                "version": "4.7.1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/WordPress/WordPress/archive/4.7.1.zip"
+                },
+                "require" : {
+                    "fancyguy/webroot-installer": "1.1.0"
+                }
+            }
+        },
+        {
+            "type": "composer",
+            "url": "https://wpackagist.org"
+        },
+        {
+            "type": "git",
+            "url": "git@github.com:IIP-Design/corona-theme.git"
+        },
+        {
+            "type": "git",
+            "url": "git@github.com:USStateDept/TechCamps-theme.git"
+        },
+        {
+            "type": "git",
+            "url": "git@github.com:humanmade/S3-Uploads.git"
+        }
+    ],
+    "require-dev": {
+      "wpackagist-plugin/debug-bar": "0.8.4",
+      "wpackagist-plugin/debug-bar-actions-and-filters-addon": "1.5.2",
+      "wpackagist-plugin/query-monitor": "2.13.2"
+    },
+    "require": {
+            "wordpress": "4.7.1",
+            "fancyguy/webroot-installer": "1.1.0",
+            "koodimonni/composer-dropin-installer": "1.0",
+            "humanmade/s3-uploads": "dev-master#508239b",
+            "wpackagist-plugin/wordpress-mu-domain-mapping": "0.5.5.1",
+            "wpackagist-plugin/google-apps-login": "2.10.5",
+            "wpackagist-plugin/wordpress-seo": "4.1",
+            "wpackagist-plugin/redirection": "2.5",
+            "wpackagist-plugin/disable-comments": "1.6",
+            "wpackagist-plugin/ewww-image-optimizer": "3.2.2",
+            "wpackagist-plugin/regenerate-thumbnails": "2.2.6",
+            "wpackagist-plugin/duracelltomi-google-tag-manager": "1.5.1",
+            "usstatedept/techcamps": "dev-master",
+            "iip-design/corona": "v2.10.2"
+        },
+    "extra": {
+        "dropin-paths": {
+            "wp-content/": [
+                "package:wpackagist-plugin/wordpress-mu-domain-mapping:sunrise.php"
+            ]
+        },
+        "webroot-dir": "wp",
+        "webroot-package": "wordpress"
+    }
+}
