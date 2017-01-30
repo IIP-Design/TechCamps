@@ -50,6 +50,8 @@
             "wpackagist-plugin/ewww-image-optimizer": "3.2.2",
             "wpackagist-plugin/regenerate-thumbnails": "2.2.6",
             "wpackagist-plugin/duracelltomi-google-tag-manager": "1.5.1",
+            "wpackagist-plugin/cmb2": "2.2.3.1",
+            "wpackagist-plugin/posts-to-posts": "1.6.5",
             "usstatedept/techcamps": "dev-master",
             "iip-design/corona": "v2.10.2"
         },
