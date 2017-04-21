@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "434315cc628b28ab97cadf807864d0dd",
-    "content-hash": "50ac60c17352f643deb3d9d2172bfb08",
+    "hash": "7aa3c7d9e395e4675cc8e48c0350a5b6",
+    "content-hash": "be8ebe251193fe2ae2003ca3d7416e4a",
     "packages": [
         {
             "name": "composer/installers",
@@ -238,12 +238,12 @@
             "time": "2015-06-11 14:15:20"
         },
         {
-            "name": "usstatedept/techcamps",
+            "name": "usstatedept/techcamp",
             "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "git@github.com:USStateDept/TechCamps-theme.git",
-                "reference": "0df35c9366862a46d29b69b0286fae3e23b9f978"
+                "reference": "3c8e51941c27d5297f0e515cb8ad69848be1d2f4"
             },
             "require": {
                 "composer/installers": "v1.0.21"
@@ -253,7 +253,7 @@
                 "MIT"
             ],
             "description": "TechCamp's theme, a child of Corona",
-            "time": "2017-03-17 21:41:40"
+            "time": "2017-04-21 19:19:24"
         },
         {
             "name": "wordpress",
@@ -536,7 +536,7 @@
     "minimum-stability": "stable",
     "stability-flags": {
         "humanmade/s3-uploads": 20,
-        "usstatedept/techcamps": 20
+        "usstatedept/techcamp": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,
