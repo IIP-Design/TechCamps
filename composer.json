@@ -57,6 +57,7 @@
             "wpackagist-plugin/manual-image-crop": "1.12",
             "wpackagist-plugin/tablepress": "1.8",
             "wpackagist-plugin/relevanssi": "3.5.8",
+            "wpackagist-plugin/broken-link-checker": "1.11.2",
             "usstatedept/techcamp": "dev-master",
             "iip-design/corona": "v2.10.2"
         },
