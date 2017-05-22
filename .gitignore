@@ -16,6 +16,7 @@ wp-content/db.php
 
 # Composer
 vendor
+composer.lock
 
 # OS generated files #
 ######################
