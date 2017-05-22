@@ -29,6 +29,10 @@
         },
         {
             "type": "git",
+            "url": "git@github.com:USStateDept/formidable.git"
+        },
+        {
+            "type": "git",
             "url": "git@github.com:humanmade/S3-Uploads.git"
         }
     ],
@@ -53,7 +57,7 @@
             "wpackagist-plugin/cmb2": "2.2.4",
             "wpackagist-plugin/posts-to-posts": "1.6.5",
             "wpackagist-plugin/ajax-thumbnail-rebuild": "1.12",
-            "wpackagist-plugin/formidable": "2.03.05",
+            "usstatedept/formidable": "2.02.12",
             "wpackagist-plugin/manual-image-crop": "1.12",
             "wpackagist-plugin/tablepress": "1.8",
             "wpackagist-plugin/relevanssi": "3.5.8",
