@@ -62,6 +62,7 @@
             "wpackagist-plugin/tablepress": "1.8",
             "wpackagist-plugin/relevanssi": "3.5.8",
             "wpackagist-plugin/broken-link-checker": "1.11.2",
+            "wpackagist-plugin/wp-updates-notifier": "1.4.4",
             "usstatedept/techcamp": "dev-master",
             "iip-design/corona": "v2.10.2"
         },
