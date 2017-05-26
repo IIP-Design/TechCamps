@@ -11,3 +11,11 @@ RewriteRule ^ - [L]
 RewriteRule ^([_0-9a-zA-Z-]+/)?(wp-(content|admin|includes).*) wp/$2 [L]
 RewriteRule ^([_0-9a-zA-Z-]+/)?(.*\.php)$ wp/$2 [L]
 RewriteRule . index.php [L]
+
+Redirect 301 /problem-definitions.php /outcomes
+Redirect 301 /techcamp-in-a-box/venue.php /resources/venue-requirements
+Redirect 301 /techcamp-in-a-box/budget-and-planning/techcamp-sample-budget.php /resources/sample-budget
+Redirect 301 /privacy.php /privacy-policy
+Redirect 301 /highlights.php /outcomes
+Redirect 301 /contact.php /contact-us
+Redirect 301 /learn-about-techcamp.php /about
