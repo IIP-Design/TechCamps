@@ -25,6 +25,10 @@
         },
         {
             "type": "git",
+            "url": "git@github.com:USStateDept/wp-hide-login-form.git"
+        },
+        {
+            "type": "git",
             "url": "git@github.com:USStateDept/TechCamps-theme.git"
         },
         {
@@ -59,6 +63,7 @@
             "wpackagist-plugin/posts-to-posts": "1.6.5",
             "wpackagist-plugin/ajax-thumbnail-rebuild": "1.12",
             "usstatedept/formidable": "2.02.12",
+            "usstatedept/wp-hide-login-form": "1.0.1",
             "wpackagist-plugin/manual-image-crop": "1.12",
             "wpackagist-plugin/tablepress": "1.8",
             "wpackagist-plugin/relevanssi": "3.5.8",
