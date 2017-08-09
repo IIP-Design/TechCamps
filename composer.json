@@ -5,10 +5,10 @@
             "package": {
                 "name": "wordpress",
                 "type": "webroot",
-                "version": "4.7.5",
+                "version": "4.8.1",
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/WordPress/WordPress/archive/4.7.5.zip"
+                    "url": "https://github.com/WordPress/WordPress/archive/4.8.1.zip"
                 },
                 "require" : {
                     "fancyguy/webroot-installer": "1.1.0"
@@ -41,12 +41,12 @@
         }
     ],
     "require-dev": {
-      "wpackagist-plugin/debug-bar": "0.8.4",
+      "wpackagist-plugin/debug-bar": "0.9",
       "wpackagist-plugin/debug-bar-actions-and-filters-addon": "1.5.2",
       "wpackagist-plugin/query-monitor": "2.13.2"
     },
     "require": {
-            "wordpress": "4.7.5",
+            "wordpress": "4.8.1",
             "fancyguy/webroot-installer": "1.1.0",
             "koodimonni/composer-dropin-installer": "1.0",
             "humanmade/s3-uploads": "dev-master#508239b",
@@ -59,16 +59,17 @@
             "wpackagist-plugin/ewww-image-optimizer": "3.2.2",
             "wpackagist-plugin/regenerate-thumbnails": "2.2.6",
             "wpackagist-plugin/duracelltomi-google-tag-manager": "1.5.1",
-            "wpackagist-plugin/cmb2": "2.2.4",
+            "wpackagist-plugin/cmb2": "2.2.5.2",
             "wpackagist-plugin/posts-to-posts": "1.6.5",
             "wpackagist-plugin/ajax-thumbnail-rebuild": "1.12",
-            "usstatedept/formidable": "2.02.12",
+            "usstatedept/formidable": "2.03.08",
             "usstatedept/wp-hide-login-form": "1.0.1",
             "wpackagist-plugin/manual-image-crop": "1.12",
             "wpackagist-plugin/tablepress": "1.8",
-            "wpackagist-plugin/relevanssi": "3.5.8",
+            "wpackagist-plugin/relevanssi": "3.5.11.1",
             "wpackagist-plugin/broken-link-checker": "1.11.2",
             "wpackagist-plugin/wp-updates-notifier": "1.4.4",
+            "wpackagist-plugin/wordpress-seo": "5.2",
             "usstatedept/techcamp": "dev-master",
             "iip-design/corona": "v2.10.2"
         },
