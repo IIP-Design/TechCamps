@@ -8,7 +8,7 @@
                 "version": "4.8.1",
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/WordPress/WordPress/archive/4.7.3.zip"
+                    "url": "https://github.com/WordPress/WordPress/archive/4.8.1.zip"
                 },
                 "require" : {
                     "fancyguy/webroot-installer": "1.1.0"
@@ -22,6 +22,10 @@
         {
             "type": "git",
             "url": "git@github.com:IIP-Design/corona-theme.git"
+        },
+        {
+            "type": "git",
+            "url": "git@github.com:USStateDept/wp-hide-login-form.git"
         },
         {
             "type": "git",
@@ -46,6 +50,7 @@
             "fancyguy/webroot-installer": "1.1.0",
             "koodimonni/composer-dropin-installer": "1.0",
             "humanmade/s3-uploads": "dev-master#508239b",
+            "wpackagist-plugin/wp-ses": "0.7.0",
             "wpackagist-plugin/wordpress-mu-domain-mapping": "0.5.5.1",
             "wpackagist-plugin/google-apps-login": "2.10.5",
             "wpackagist-plugin/wordpress-seo": "4.1",
@@ -57,7 +62,8 @@
             "wpackagist-plugin/cmb2": "2.2.5.2",
             "wpackagist-plugin/posts-to-posts": "1.6.5",
             "wpackagist-plugin/ajax-thumbnail-rebuild": "1.12",
-            "usstatedept/formidable": "2.03.10",
+            "usstatedept/formidable": "2.03.08",
+            "usstatedept/wp-hide-login-form": "1.0.1",
             "wpackagist-plugin/manual-image-crop": "1.12",
             "wpackagist-plugin/tablepress": "1.8",
             "wpackagist-plugin/relevanssi": "3.5.11.1",
