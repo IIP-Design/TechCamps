@@ -37,6 +37,10 @@
         },
         {
             "type": "git",
+            "url": "git@github.com:IIP-Design/formidable-pro.git"
+        },
+        {
+            "type": "git",
             "url": "git@github.com:humanmade/S3-Uploads.git"
         }
     ],
@@ -62,6 +66,7 @@
             "wpackagist-plugin/posts-to-posts": "1.6.5",
             "wpackagist-plugin/ajax-thumbnail-rebuild": "1.12",
             "iip-design/formidable": "3.0.05",
+            "iip-design/formidable-pro": "3.0.05",
             "iip-design/wp-hide-login-form": "1.0.1",
             "wpackagist-plugin/manual-image-crop": "1.12",
             "wpackagist-plugin/tablepress": "1.9",
