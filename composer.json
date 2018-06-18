@@ -54,7 +54,7 @@
             "fancyguy/webroot-installer": "1.1.0",
             "koodimonni/composer-dropin-installer": "1.0",
             "humanmade/s3-uploads": "dev-master#508239b",
-            "wpackagist-plugin/wp-ses": "0.8",
+            "wpackagist-plugin/wp-ses": "0.8.1",
             "wpackagist-plugin/wordpress-mu-domain-mapping": "0.5.5.1",
             "wpackagist-plugin/google-apps-login": "3.2",
             "wpackagist-plugin/redirection": "3.2",
