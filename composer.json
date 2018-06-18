@@ -47,7 +47,7 @@
     "require-dev": {
       "wpackagist-plugin/debug-bar": "0.9",
       "wpackagist-plugin/debug-bar-actions-and-filters-addon": "1.5.4",
-      "wpackagist-plugin/query-monitor": "3.0.0"
+      "wpackagist-plugin/query-monitor": "3.0.1"
     },
     "require": {
             "wordpress": "4.9.6",
@@ -62,18 +62,18 @@
             "wpackagist-plugin/ewww-image-optimizer": "4.2.1",
             "wpackagist-plugin/regenerate-thumbnails": "3.0.2",
             "wpackagist-plugin/duracelltomi-google-tag-manager": "1.8",
-            "wpackagist-plugin/cmb2": "2.3.0",
+            "wpackagist-plugin/cmb2": "2.4.2",
             "wpackagist-plugin/posts-to-posts": "1.6.5",
             "wpackagist-plugin/ajax-thumbnail-rebuild": "1.2.1",
-            "iip-design/formidable": "3.01.03",
-            "iip-design/formidable-pro": "3.01.03",
+            "iip-design/formidable": "3.02",
+            "iip-design/formidable-pro": "3.02",
             "iip-design/wp-hide-login-form": "1.0.1",
             "wpackagist-plugin/manual-image-crop": "1.12",
             "wpackagist-plugin/tablepress": "1.9",
-            "wpackagist-plugin/relevanssi": "4.0.9",
+            "wpackagist-plugin/relevanssi": "4.0.10.1",
             "wpackagist-plugin/broken-link-checker": "1.11.5",
             "wpackagist-plugin/wp-updates-notifier": "1.4.4",
-            "wpackagist-plugin/wordpress-seo": "7.5.1",
+            "wpackagist-plugin/wordpress-seo": "7.5.3",
             "usstatedept/techcamp": "dev-master",
             "iip-design/corona": "v2.10.2"
         },
