@@ -1,3 +1,3 @@
-TechCamps
+# :warning: THIS REPO HAS BEEN ARCHIVED :warning:
 
-This is the website root for the techcamps website.
+The TechCamp site was transitioned to another team for maintenance in October 2020. As such, this repository has been archived and is no longer being maintained. The code is preserved here as a reference.
